@@ -12,9 +12,9 @@ ZENSICAL=zensical
 [ -x .venv/bin/zensical ] && ZENSICAL=.venv/bin/zensical
 "$ZENSICAL" build --clean
 
-# Jump host. On 2026-10-30 util could not reach w3 on port 22 but stu could:
-#   JUMP=bowersjc@stu.cs.jmu.edu ./deploy.sh --dry-run
-JUMP="${JUMP:-bowersjc@util.cs.jmu.edu}"
+# Jump host. stu, because util can't reach w3 on port 22 (2026-10-30).
+# Override if that changes: JUMP=bowersjc@util.cs.jmu.edu ./deploy.sh
+JUMP="${JUMP:-bowersjc@stu.cs.jmu.edu}"
 
 rsync -e "ssh -J $JUMP" -a -i \
   --chmod=Du=rwx,Dgo=rx,Fu=rw,Fgo=r \

@@ -33,8 +33,17 @@ python3 -m venv .venv && .venv/bin/pip install 'zensical==0.0.*'
 
 ```
 ./deploy.sh --dry-run   # what would change
-./deploy.sh             # build and rsync site/ to ~/public_html via util.cs.jmu.edu
+./deploy.sh             # build and rsync site/ to ~/public_html via stu.cs.jmu.edu
 ```
 
 The rsync never deletes: `public_html` also holds `files/`, `fya/`,
 `chord_graph/` and older pages that this repo doesn't build.
+
+## Checking links
+
+```
+.venv/bin/zensical build --clean && python3 -I scripts/check_links.py
+```
+
+Dead outside links get a DOI, the page's new address, or a Wayback Machine
+copy (`https://web.archive.org/web/<timestamp>/<old url>`), never a guess.
