@@ -1,0 +1,38 @@
+{% extends "base.html" %}
+
+{# page.is_homepage is not set with use_directory_urls = false #}
+{% set home = page.url in ["", "index.html", "./"] %}
+
+{# Left sidebar: the bio (portrait, office hours, contact), as on the old
+   site. The page nav stays in it for the phone menu; CSS hides it on wide
+   screens, where the top tabs show the same links. #}
+{% block site_nav %}
+  <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation">
+    <div class="md-sidebar__scrollwrap">
+      <div class="md-sidebar__inner">
+        {% include "partials/nav.html" %}
+        {% include "partials/bio.html" %}
+      </div>
+    </div>
+  </div>
+  {% if page.toc and not home %}
+    <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc">
+      <div class="md-sidebar__scrollwrap">
+        <div class="md-sidebar__inner">
+          {% include "partials/toc.html" %}
+        </div>
+      </div>
+    </div>
+  {% endif %}
+{% endblock %}
+
+{# On phones the sidebar is a slide-out menu, so the home page also shows
+   the bio under the content (hidden on wide screens by CSS). #}
+{% block content %}
+  {{ super() }}
+  {% if home %}
+    <div class="bio-inline">
+      {% include "partials/bio.html" %}
+    </div>
+  {% endif %}
+{% endblock %}

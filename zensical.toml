@@ -1,0 +1,63 @@
+[project]
+site_name = "Prof. John C. Bowers"
+site_url = "https://w3.cs.jmu.edu/bowersjc/"
+site_description = "John C. Bowers, Associate Professor of Computer Science, James Madison University"
+site_author = "John C. Bowers"
+copyright = "© John C. Bowers 2015-present"
+docs_dir = "docs"
+site_dir = "site"
+extra_css = ["stylesheets/extra.css"]
+
+# Pages build to activity.html, publications.html, ... at the site root,
+# the same URLs as the old Metalsmith site.
+use_directory_urls = false
+
+# Same top nav as the old site. quicklinks, researchlab, researchtalks,
+# projects and upcoming are built (old links keep working) but not in the nav.
+nav = [
+  { "Home" = "index.md" },
+  { "News" = "activity.md" },
+  { "Publications" = "publications.md" },
+  { "Software" = "software.md" },
+  { "Teaching" = "teaching.md" },
+  { "Artwork" = "artwork.md" },
+]
+
+[project.theme]
+language = "en"
+custom_dir = "overrides"   # main.html: bio sidebar (partials/bio.html)
+features = [
+  "navigation.tabs",
+  "navigation.top",
+  "search.highlight",
+]
+
+[project.theme.icon]
+logo = "lucide/circle"
+
+# JMU purple/gold; actual colors set in docs/stylesheets/extra.css
+[[project.theme.palette]]
+media = "(prefers-color-scheme: light)"
+scheme = "default"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/sun"
+toggle.name = "Switch to dark mode"
+
+[[project.theme.palette]]
+media = "(prefers-color-scheme: dark)"
+scheme = "slate"
+primary = "custom"
+accent = "custom"
+toggle.icon = "lucide/moon"
+toggle.name = "Switch to light mode"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/github"
+link = "https://github.com/johncbowers/"
+name = "GitHub"
+
+[[project.extra.social]]
+icon = "fontawesome/brands/researchgate"
+link = "https://www.researchgate.net/profile/John_Bowers11"
+name = "Research Gate"

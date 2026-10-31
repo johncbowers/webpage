@@ -1,0 +1,134 @@
+/* Colors and header match JMU-CS/research and JMU-CS/research-talks. */
+/* JMU purple (#450084) and gold (#CBB677) */
+:root {
+  --md-primary-fg-color: #450084;
+  --md-primary-fg-color--light: #6a2fa0;
+  --md-primary-fg-color--dark: #2f005c;
+  --md-accent-fg-color: #6a2fa0;
+  --md-typeset-a-color: #450084;
+}
+[data-md-color-scheme="slate"] {
+  --md-accent-fg-color: #cbb677;
+  --md-typeset-a-color: #cbb677;
+}
+
+/* Purple header bar with a thin gold rule */
+.md-header {
+  background-color: #450084;
+  color: #fff;
+  border-bottom: 3px solid #cbb677;
+  backdrop-filter: none;
+}
+.md-header .md-search__button {
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0.15);
+}
+.md-header .md-search__button kbd,
+.md-header .md-search__button * {
+  color: inherit;
+}
+
+/* Page title underlined in gold, as on the old site */
+.md-typeset h1 {
+  padding-bottom: 0.2em;
+  border-bottom: 1px solid #cbb677;
+}
+
+/* Figures: full-width image, caption right-aligned (old site) */
+.md-typeset figure {
+  display: block;
+  margin: 0 0 1.5em;
+}
+.md-typeset figure img { width: 100%; }
+.md-typeset figcaption {
+  max-width: none;
+  margin: 0.4em 0 0;
+  text-align: right;
+  font-style: normal;
+  font-size: 0.85em;
+}
+
+/* Artwork posters: three to a row (the page's own .row/.column floats) */
+.md-typeset .row .column { box-sizing: border-box; }
+
+/* ---------- Bio sidebar ---------- */
+.bio {
+  padding: 0 0.6rem 1rem 0.8rem;
+  font-size: 0.7rem;
+  line-height: 1.5;
+}
+.bio .portrait {
+  width: 160px;
+  height: 160px;
+  margin: 0.5rem auto 0.8rem;
+  border-radius: 50%;
+  border: 3px solid #cbb677;
+  background-size: cover;
+  background-position: center;
+}
+.bio h2 {
+  margin: 1.1em 0 0.3em;
+  padding-bottom: 0.15em;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: #450084;
+  border-bottom: 1px solid #cbb677;
+}
+[data-md-color-scheme="slate"] .bio h2 { color: #cbb677; }
+.bio p { margin: 0.4em 0; }
+.bio ul {
+  margin: 0.3em 0;
+  padding: 0;
+  list-style: none;
+}
+.bio li { margin: 0 0 0.5em; }
+.md-typeset .bio ul { margin-left: 0; list-style: none; }
+.md-typeset .bio li { margin-left: 0; }
+.bio a { color: var(--md-typeset-a-color); }
+.bio a:hover { color: var(--md-accent-fg-color); }
+.bio-social a { margin-right: 0.4em; }
+.bio-social img { vertical-align: middle; }
+[data-md-color-scheme="slate"] .bio-social img[alt="GitHub"] { filter: invert(1); }
+
+/* Wide screens: the top tabs carry the nav, the sidebar carries the bio.
+   Narrow screens: the sidebar is the slide-out menu (nav, then bio), and the
+   home page repeats the bio under its content. */
+@media screen and (min-width: 76.25em) {
+  .md-sidebar--primary .md-nav--primary { display: none; }
+  .bio-inline { display: none; }
+}
+@media screen and (max-width: 76.234375em) {
+  .md-sidebar--primary .bio { padding-top: 0.5rem; }
+  .bio-inline {
+    margin-top: 2rem;
+    border-top: 3px solid #cbb677;
+  }
+  .bio-inline .bio { padding: 0; font-size: inherit; }
+  .bio-inline .bio h2 { font-size: 1em; }
+}
+
+/* Keep the top tabs (Home · News · Publications · ...) visible at every
+   width; the theme hides them below 1220px. Scrolls sideways on phones. */
+@media screen and (max-width: 76.234375em) {
+  .md-tabs { display: block; }
+  .md-tabs__list { white-space: nowrap; }
+}
+
+/* Flat, square look, as on the department sites */
+.md-typeset .md-button,
+.md-typeset .admonition,
+.md-typeset details { border-radius: 0; }
+
+/* Accessibility: a focus ring that shows on purple and on white */
+:focus-visible {
+  outline: 2px solid #450084;
+  outline-offset: 2px;
+}
+.md-header :focus-visible,
+.md-tabs :focus-visible {
+  outline: 3px solid #cbb677;
+  outline-offset: 2px;
+}
+[data-md-color-scheme="slate"] :focus-visible {
+  outline-color: #cbb677;
+}
