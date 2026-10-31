@@ -42,6 +42,8 @@ Here are a few recent publications on circle packings. More publications can be 
 * (with [Philip Bowers](https://www.math.fsu.edu/~bowers/)) [Ma-Schlenker c-Octahedra in the 2-Sphere](https://link.springer.com/content/pdf/10.1007/s00454-017-9928-1.pdf). _Discrete and Computational Geometry_ (2017), DOI 10.1007/s00454-017-9928-1
 
 ## Recent Talks
+* In April 2026, I gave a talk titled "Dürer's Problem and Coin Polyhedra" at the JMU CS Research Seminar.
+* In Spring 2025, I gave a seminar at ICERM during the [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/program/semester_program/sp-s25) semester program.
 * In August 2023, I gave a talk titled “Koebe-Andre’ev-Thurston via Flip-and-Flow” at the [Workshop on Constraint Systems: Distance Geometry, Structured Polynomials, Matrix Completion and Kinematics](http://www.fields.utoronto.ca/activities/23-24/constraint-systems) at the Fields Institute in Toronto.
 * In May 2022, I gave an invited talk at the [Workshop on Discrete Shapes](https://discreteshapes.gitlab.io/discrete-shapes/workshop_2022_Harvard/index.html) at the NSF FRG Workshop on Geometric Methods for Analyzing Discrete Shapes at Harvard University.
 * In October 2020, I gave a talk titled "Obtaining Koebe-Andre’ev-Thurston packings via flow from tangency packings" to the [Topology Seminar at Florida State Mathematics](https://www.math.fsu.edu/~ballas/topology_seminar.html). 

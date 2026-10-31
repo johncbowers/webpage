@@ -31,6 +31,10 @@ title: Publications
 1. Washington Mio, John C. Bowers, Monica Hurdal, and Xuiwen Liu. [Modeling Brain Anatomy with 3D Arrangements of Curves](https://ieeexplore.ieee.org/document/4409164). In Proc. Workshop on Mathematical Methods in Biomedical Image Analysis (MMBIA), Rio de Janeiro, Brazil, 2007. [[IEEE Explorer Paper]](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=4409164) [[Poster]](https://web.archive.org/web/20150813123931/http://web.math.fsu.edu:80/~mhurdal/posters/mmbia07.pdf)
 1. Xuiwen Liu, John C. Bowers, and Washington Mio. Parametrization, Alignment and Shape of Spherical Surfaces. In Proc. 2nd International Conference on Computer Vision Theory and Applications (VISAPP), Barcelona, Spain, Vol. 1, 2007, 199-206
 
+## Patents
+
+1. S. Kim, J. C. Bowers, K. Stephenson, V. Kunc, A. A. Hassen, L. J. Love, G. D. Dreifus. [Systems and methods for generating a graded lattice structure and their application to additive manufacturing.](https://patents.google.com/patent/US11602898B2/en) U.S. Patent 11,602,898 B2, granted March 14, 2023.
+
 ## Technical Reports
 
 1. David Maletz, John Bowers, Rui Wang. “[Reflectance Filtering for Interactive Global Illumination in Semi-Glossy Scenes](https://web.archive.org/web/20220307190503/http://graphics.cs.umass.edu/pubs/refl_filtering.pdf).” UMass Technical Report UM-CS-2009-057, 2009.

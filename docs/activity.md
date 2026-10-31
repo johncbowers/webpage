@@ -6,12 +6,41 @@ title: News
 
 * I am co-organizing the [AI-assisted coding for Mathematical Exploration](https://icerm.brown.edu/program/hot_topics_workshop/htw-26-aia) Hot Topics workshop at [ICERM](https://icerm.brown.edu), December 11-13, 2026, with Laura Taalman, Aaron Abrams, David Bachman, and Martin Skrodzki.
 
+* In April 2026, my undergraduate research group presented the poster "Unfolding Koebe Polyhedra" at the CISE Research Showcase at JMU. You can try the [coin unfolding explorer](https://johncbowers.github.io/coin_unfold/).
+* In April 2026, I chaired the site-visit team for the Academic Program Review of JMU's Department of Mathematics and Statistics.
+* This year I represent CISE on JMU's General Education Oversight Committee.
+
 ### 2025
 
-* From January 29 to May 2, 2025, I was a co-organizer of the semester program [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/program/semester_program/sp-s25) at [ICERM](https://icerm.brown.edu), with Alexander Bobenko, [Philip Bowers](https://www.math.fsu.edu/~bowers/), Robert Connelly, Steven Gortler, Miranda Holmes-Cerfon, Sabetta Matsumoto, Anthony Nixon, and Meera Sitharam.
+* From January 29 to May 2, 2025, I was a co-organizer of the semester program [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/program/semester_program/sp-s25) at [ICERM](https://icerm.brown.edu), with Alexander Bobenko, [Philip Bowers](https://www.math.fsu.edu/~bowers/), Robert Connelly, Steven Gortler, Miranda Holmes-Cerfon, Sabetta Matsumoto, Anthony Nixon, and Meera Sitharam. I was in residence at ICERM for the semester and gave a seminar there.
+* In February 2025, I co-organized the ICERM workshop [Circle Packings, Minimal Surfaces, and Discrete Differential Geometry](https://icerm.brown.edu/program/semester_program_workshop/sp-s25-w1) (February 10-14).
+* In Summer 2025, I led the CS Rigidity Theory in the UK study abroad program. For it I built a new browser-based front end for [KoebePy](https://github.com/johncbowers/koebepy).
+
+### 2024
+
+* My paper with Dakota Lawson, ["Escher: An Engine for Exploring Hierarchical Combinatorial Tilings,"](https://archive.bridgesmathart.org/2024/bridges2024-455.html) appeared in the proceedings of Bridges 2024 in Richmond, VA.
+* With Anthony Nixon and Meera Sitharam, I am guest editor of the [special issue](https://www.sciencedirect.com/special-issue/103ZWM6M5BC) of _Computational Geometry: Theory and Applications_ for the Fields Institute Thematic Program on Geometric Constraint Systems. Its eleven papers appeared between 2024 and 2026.
+
+### 2023
+
+* In August 2023, I gave a talk titled “Koebe-Andre’ev-Thurston via Flip-and-Flow” at the [Workshop on Constraint Systems](http://www.fields.utoronto.ca/activities/23-24/constraint-systems) at the Fields Institute in Toronto.
+* In Summer 2023, I led the CS Rigidity Theory in the UK study abroad program.
+* In May 2023, I gave the faculty address at the CISE Commencement as the CISE Distinguished Teacher for 2022–23.
+* In March 2023, [U.S. Patent 11,602,898](https://patents.google.com/patent/US11602898B2/en), "Systems and methods for generating a graded lattice structure and their application to additive manufacturing," was granted. I am a named inventor, with collaborators at Oak Ridge National Laboratory and the University of Tennessee.
+
+### 2022
+
+* In May 2022, I gave an invited talk at the [Workshop on Discrete Shapes](https://discreteshapes.gitlab.io/discrete-shapes/workshop_2022_Harvard/index.html) at Harvard University.
+* In 2022, I gave an invited talk in an AMS special session at the Joint Mathematics Meetings.
+
+### 2021
+
+* In August 2021, I was promoted to associate professor with tenure.
+* In April 2021, I co-organized the Fields Institute's [Workshop on the Geometry of Circle Packings](https://www.fields.utoronto.ca/activities/20-21/constraint-circle) (April 12-16, online), which had more than 130 registered participants.
 
 ### 2020
 
+* In 2020–21, I gave invited talks at Cornell University's Oliver Club and the [Topology Seminar at Florida State Mathematics](https://www.math.fsu.edu/~ballas/topology_seminar.html).
 * I am an organizer for the [Circle Packings and Geometric Rigidity](https://icerm.brown.edu/topical_workshops/tw-20-cpgr/) topical workshop that will be held at Brown University's [Institute for Computational and Experimental Research in Mathematics (ICERM)](https://icerm.brown.edu) July 6-10. 
 
 ### 2019

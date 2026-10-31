@@ -32,6 +32,12 @@ Koebe-Lib is a library for investigating inversive geometry of circles. It has f
 * __Collaborators:__ Maddie Brower (JMU), Sarah Ciresi (Georgetown'18), Quincy Mast (JMU'18)
 * [Koebe-Lib GitHub](https://github.com/johncbowers/KoebeLib)
 
+## KoebePy
+
+KoebePy is a Python library for inversive geometry and circle packing on the Riemann sphere, with sample Jupyter notebooks. In 2025 I built a browser-based front end for it, so that students in the CS Rigidity Theory in the UK program could run live, interactive 2D and 3D constructions in lab and homework.
+
+* [KoebePy GitHub](https://github.com/johncbowers/koebepy)
+
 ## Escher
 
 <figure markdown>
@@ -41,7 +47,7 @@ Three levels of the twisted pentagonal subdivision as output by Escher.
 </figcaption>
 </figure>
 
-Escher is a programming language for coding conformal subdivision tilings. Currently, Escher's code resides within Koebe-Lib though it should probably eventually fork off into its own project. 
+Escher is a programming language for coding conformal subdivision tilings. See ["Escher: An Engine for Exploring Hierarchical Combinatorial Tilings"](https://archive.bridgesmathart.org/2024/bridges2024-455.html) (Bridges 2024). Currently, Escher's code resides within Koebe-Lib though it should probably eventually fork off into its own project. 
 
 * __Collaborators:__ Angelo Luna
 
