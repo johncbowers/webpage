@@ -19,7 +19,7 @@ My teaching interests are in the mathematical side of the undergraduate CS curri
 
 Students interested in working with me should check out my <a href="http://arsgeometricalab.com">research lab webpage</a>. 
 
-I am one of the CS first-year advisors. I am the organizer of the [CS Research Seminar](https://wiki.cs.jmu.edu/student/cs_research_seminar_talks) talk series. 
+I am one of the CS first-year advisors. I am the organizer of the [CS Research Seminar](https://w3.cs.jmu.edu/research-talks/) talk series. 
 
 ## On the Liberal Arts and Research
 
@@ -31,8 +31,10 @@ This is also why a student's job is not simply job training, as if human society
 
 ## Selected Publications
 
-Here are a few recent publications on circle packings. More publications can be found [here](publications/).
+Here are a few recent publications on circle packings. More publications can be found [here](publications.html).
 
+* (with Bradley McCoy, Dema Nasrawt, and Aidan Pawlak) "Spanning Trees Minimizing Geometric Indices." _33rd Annual Fall Workshop on Computational Geometry_ (FWCG 2026). To appear.
+* (with [Philip Bowers](https://www.math.fsu.edu/~bowers/) and Carl O. R. Lutz) ["Rigidity of Koebe Polyhedra and Inversive Distance Circle Packings."](https://arxiv.org/abs/2601.22903) arXiv:2601.22903 (2026)
 * ["Escher: An Engine for Exploring Hierarchical Combinatorial Tilings"](https://archive.bridgesmathart.org/2024/bridges2024-455.html#gsc.tab=0) _Proceedings of Bridges 2024: Mathematics, Art, Music, Architecture, Culture_ (2024). 
 * ["A proof of the Koebe-Andre'ev-Thurston theorem via flow from tangency packings."](https://arxiv.org/abs/2007.02403) arXiv:2007.02403
 * (with [Philip Bowers](https://www.math.fsu.edu/~bowers/) and Kevin Pratt) ["Almost all circle polyhedra are rigid,"](https://doi.org/10.1007/s10711-019-00438-0) Geometriae Dedicata (2019). https://doi.org/10.1007/s10711-019-00438-0

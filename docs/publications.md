@@ -4,10 +4,13 @@ title: Publications
 
 ## Preprints
 
+1. John C. Bowers, Philip L. Bowers, and Carl O. R. Lutz. [Rigidity of Koebe Polyhedra and Inversive Distance Circle Packings.](https://arxiv.org/abs/2601.22903) arXiv:2601.22903 (2026)
 1. John C. Bowers. [A proof of the Koebe-Andre'ev-Thurston theorem via flow from tangency packings.](https://arxiv.org/abs/2007.02403) arXiv:2007.02403
 
 ## Refereed
 
+1. John C. Bowers, Bradley McCoy, Dema Nasrawt, and Aidan Pawlak. Spanning Trees Minimizing Geometric Indices. 33rd Annual Fall Workshop on Computational Geometry (FWCG 2026). To appear.
+1. John Bowers and Dakota Lawson. [Escher: An Engine for Exploring Hierarchical Combinatorial Tilings.](https://archive.bridgesmathart.org/2024/bridges2024-455.html) _Proceedings of Bridges 2024: Mathematics, Art, Music, Architecture, Culture_, 455-458.
 1. John C. Bowers, Philip L. Bowers, and Kevin Pratt. [Almost all circle polyhedra are rigid.](https://link.springer.com/article/10.1007/s10711-019-00438-0) Geometriae Dedicata (2019). https://doi.org/10.1007/s10711-019-00438-0
 1. Seokpum Kim, Gregory Dreifus, Bentley Beard, Andrew Glick, Andrew Messing, Ahmed Arabi Hassen, John Lindahl, Peng Liu, Tyler Smith, Jordan Failla, Brian Post, John C. Bowers, Kenneth Stephenson, Lonnie Love, Vlastimil Kunc. [Graded Infill Structure of Wind Turbine Blade Accounting for Internal Stress in Big Area Additive Manufacturing.](https://www.osti.gov/biblio/1479756-graded-infill-structure-wind-turbine-blade-accounting-internal-stress-big-area-additive-manufacturing) The Composites and Advanced Materials Expo (CAMX) 2018 Oct 15-18, Dallas, Texas. CAMX Conference Proceedings, TP18-0534
 1. John C. Bowers, Philip L. Bowers, and Kevin Pratt. Rigidity of circle polyhedra in the 2-sphere and of hyperideal polyhedra in hyperbolic 3-space". _Transactions of the American Mathematical Society_. Appeared online September 25, 2018. ([AMS Online Access](https://www.ams.org/journals/tran/0000-000-00/S0002-9947-2018-07483-9/))

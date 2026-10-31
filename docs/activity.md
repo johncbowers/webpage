@@ -2,6 +2,14 @@
 title: News
 ---
 
+### 2026
+
+* I am co-organizing the [AI-assisted coding for Mathematical Exploration](https://icerm.brown.edu/program/hot_topics_workshop/htw-26-aia) Hot Topics workshop at [ICERM](https://icerm.brown.edu), December 11-13, 2026, with Laura Taalman, Aaron Abrams, David Bachman, and Martin Skrodzki.
+
+### 2025
+
+* From January 29 to May 2, 2025, I was a co-organizer of the semester program [Geometry of Materials, Packings and Rigid Frameworks](https://icerm.brown.edu/program/semester_program/sp-s25) at [ICERM](https://icerm.brown.edu), with Alexander Bobenko, [Philip Bowers](https://www.math.fsu.edu/~bowers/), Robert Connelly, Steven Gortler, Miranda Holmes-Cerfon, Sabetta Matsumoto, Anthony Nixon, and Meera Sitharam.
+
 ### 2020
 
 * I am an organizer for the [Circle Packings and Geometric Rigidity](https://icerm.brown.edu/topical_workshops/tw-20-cpgr/) topical workshop that will be held at Brown University's [Institute for Computational and Experimental Research in Mathematics (ICERM)](https://icerm.brown.edu) July 6-10. 
