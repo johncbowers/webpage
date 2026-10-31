@@ -47,7 +47,7 @@ Escher is a programming language for coding conformal subdivision tilings. Curre
 
 ## Other
 
-* [KINARI](http://kinari.cs.umass.edu/Site/index.html). I collaborate with [Ileana Streinu](http://cs.smith.edu/~streinu/) on the protein rigidity analysis software Kinari. 
+* [KINARI](https://web.archive.org/web/20191226011820/http://kinari.cs.umass.edu:80/Site/index.html). I collaborate with [Ileana Streinu](http://cs.smith.edu/~streinu/) on the protein rigidity analysis software Kinari. 
 * [JMU CS Interactive Hall Display](https://github.com/JMU-CS/Interactive-Hall-Display). I coded the initial framework for the CS department's interactive hall display. The goal is to have students submit additional visualizations and games. 
 * [JMU Freshman Advising Schedule Generator](https://w3.cs.jmu.edu/bowersjc/fya/schedules/). A schedule generator for JMU Freshman Advisors that allows advisors to generate advisee schedules for Summer Springboard with useful information like: it takes more than 15 minutes to walk from the Physics/Chemistry building to Memorial.  
 * [JMU CS Core Course Connections](https://w3.cs.jmu.edu/bowersjc/chord_graph/). A visualization of the connections between various CS courses by topic coverage. 

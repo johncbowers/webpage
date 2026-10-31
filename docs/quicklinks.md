@@ -13,7 +13,7 @@ Here is a collection of useful CS department links and information.
 ## Curriculum 
 
 * [CS Plans of study](http://www.jmu.edu/bscs/major/plan-of-study/)
-* [CS prerequisite map](https://w3.cs.jmu.edu/kirkpams/advising.shtml)
+* [CS prerequisite map](https://web.archive.org/web/20201108110519/https://w3.cs.jmu.edu/kirkpams/advising.shtml)
 
 ## Departmental links
 
