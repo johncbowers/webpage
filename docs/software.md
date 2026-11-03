@@ -52,6 +52,13 @@ Escher Studio is a browser-based editor and discovery workspace for hierarchical
 * [Escher Studio](https://johncbowers.github.io/EscherStudio/)
 * [GitHub](https://github.com/johncbowers/EscherStudio)
 
+## Flip & Flow
+
+Flip & Flow is a browser-based circle packing puzzle on the sphere. Each circle stands for a vertex of a triangulation and is colored by its degree; clicking an edge flips it, and the packing flows continuously to the new one. The goal is to reach a target degree pattern, such as the buckyball's. It is based on Ken Stephenson's flip puzzle in CirclePack, and the motion is flip-and-flow (Connelly and Gortler, 2021; Bowers, 2020).
+
+* [Flip & Flow](https://johncbowers.github.io/flipflow-puzzle/)
+* [GitHub](https://github.com/johncbowers/flipflow-puzzle)
+
 ## Other
 
 * [KINARI](https://web.archive.org/web/20191226011820/http://kinari.cs.umass.edu:80/Site/index.html). I collaborate with [Ileana Streinu](http://cs.smith.edu/~streinu/) on the protein rigidity analysis software Kinari. 
