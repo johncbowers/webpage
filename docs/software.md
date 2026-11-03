@@ -38,18 +38,19 @@ KoebePy is a Python library for inversive geometry and circle packing on the Rie
 
 * [KoebePy GitHub](https://github.com/johncbowers/koebepy)
 
-## Escher
+## Escher Studio
 
 <figure markdown>
-<img src="images/twisted_pent.png" alt="Three levels of the twisted pentagonal subdivision as output by Escher." style="width: 100%;"/>
+<img src="images/escher_studio.png" alt="A screenshot of Escher Studio showing three levels of the combinatorial chair tiling." style="width: 100%;"/>
 <figcaption markdown="span">
-Three levels of the twisted pentagonal subdivision as output by Escher.
+Three levels of the combinatorial chair tiling in Escher Studio.
 </figcaption>
 </figure>
 
-Escher is a programming language for coding conformal subdivision tilings. See ["Escher: An Engine for Exploring Hierarchical Combinatorial Tilings"](https://archive.bridgesmathart.org/2024/bridges2024-455.html) (Bridges 2024). Currently, Escher's code resides within Koebe-Lib though it should probably eventually fork off into its own project. 
+Escher Studio is a browser-based editor and discovery workspace for hierarchical combinatorial tilings. You write a subdivision rule as a short script, then explore the recursive tiling it generates: trace a tile's ancestry, color by hierarchy level, and embed it with a Tutte (barycentric) embedding or an experimental circle packing. It builds on the ideas of ["Escher: An Engine for Exploring Hierarchical Combinatorial Tilings"](https://archive.bridgesmathart.org/2024/bridges2024-455.html) (Bridges 2024).
 
-* __Collaborators:__ Angelo Luna
+* [Escher Studio](https://johncbowers.github.io/EscherStudio/)
+* [GitHub](https://github.com/johncbowers/EscherStudio)
 
 ## Other
 
