@@ -54,6 +54,13 @@ Escher Studio is a browser-based editor and discovery workspace for hierarchical
 
 ## Flip & Flow
 
+<figure markdown>
+<img src="images/flipflow.png" alt="A screenshot of Flip & Flow: a scrambled circle packing on the sphere, with the buckyball goal and its degree counts beside it." style="width: 100%;"/>
+<figcaption markdown="span">
+A Flip & Flow puzzle with the buckyball as its goal.
+</figcaption>
+</figure>
+
 Flip & Flow is a browser-based circle packing puzzle on the sphere. Each circle stands for a vertex of a triangulation and is colored by its degree; clicking an edge flips it, and the packing flows continuously to the new one. The goal is to reach a target degree pattern, such as the buckyball's. It is based on Ken Stephenson's flip puzzle in CirclePack, and the motion is flip-and-flow (Connelly and Gortler, 2021; Bowers, 2020).
 
 * [Flip & Flow](https://johncbowers.github.io/flipflow-puzzle/)
